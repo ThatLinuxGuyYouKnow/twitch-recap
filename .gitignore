@@ -9,5 +9,4 @@ tts_out/
 # demo / render artifacts (large, regenerable)
 demo/
 recap-demo-video/
-screenshots/
 *.mp4
